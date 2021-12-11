@@ -1,0 +1,121 @@
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1\OS_lite\bin\Debug\OS_lite.exe.config
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1\OS_lite\bin\Debug\OS_lite.exe
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1\OS_lite\bin\Debug\OS_lite.pdb
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1\OS_lite\bin\Debug\OS_lite.xml
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1\OS_lite\obj\Debug\OS_lite.vbprojAssemblyReference.cache
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1\OS_lite\obj\Debug\OS_lite.Form1.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1\OS_lite\obj\Debug\OS_lite.Form2.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1\OS_lite\obj\Debug\OS_lite.Resources.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1\OS_lite\obj\Debug\OS_lite.vbproj.GenerateResource.cache
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1\OS_lite\obj\Debug\OS_lite.vbproj.CoreCompileInputs.cache
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1\OS_lite\obj\Debug\OS_lite.exe
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1\OS_lite\obj\Debug\OS_lite.xml
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1\OS_lite\obj\Debug\OS_lite.pdb
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1\OS_lite\obj\Debug\OS_lite.Form3.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1 (recovery)\OS_lite 1\OS_lite\bin\Debug\OS_lite.exe.config
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1 (recovery)\OS_lite 1\OS_lite\bin\Debug\OS_lite.exe
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1 (recovery)\OS_lite 1\OS_lite\bin\Debug\OS_lite.pdb
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1 (recovery)\OS_lite 1\OS_lite\bin\Debug\OS_lite.xml
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1 (recovery)\OS_lite 1\OS_lite\obj\Debug\OS_lite.vbprojAssemblyReference.cache
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1 (recovery)\OS_lite 1\OS_lite\obj\Debug\OS_lite.Form1.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1 (recovery)\OS_lite 1\OS_lite\obj\Debug\OS_lite.Form2.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1 (recovery)\OS_lite 1\OS_lite\obj\Debug\OS_lite.Form3.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1 (recovery)\OS_lite 1\OS_lite\obj\Debug\OS_lite.Form4.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1 (recovery)\OS_lite 1\OS_lite\obj\Debug\OS_lite.Resources.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1 (recovery)\OS_lite 1\OS_lite\obj\Debug\OS_lite.vbproj.GenerateResource.cache
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1 (recovery)\OS_lite 1\OS_lite\obj\Debug\OS_lite.vbproj.CoreCompileInputs.cache
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1 (recovery)\OS_lite 1\OS_lite\obj\Debug\OS_lite.exe
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1 (recovery)\OS_lite 1\OS_lite\obj\Debug\OS_lite.xml
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1 (recovery)\OS_lite 1\OS_lite\obj\Debug\OS_lite.pdb
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1 (recovery)\OS_lite 1\OS_lite\obj\Debug\OS_lite.Form5.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1 (recovery)\OS_lite 1\OS_lite\obj\Debug\OS_lite.Form6.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1 (recovery)\OS_lite 1\OS_lite\obj\Debug\OS_lite.Form7.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1 (recovery)\OS_lite 1\OS_lite\obj\Debug\OS_lite.Form8.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1 (recovery)\OS_lite 1\OS_lite\obj\Debug\OS_lite.Form9.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1 (recovery)\OS_lite 1\OS_lite\obj\Debug\OS_lite.Form10.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 1 (recovery)\OS_lite 1\OS_lite\obj\Debug\OS_lite.Form11.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 2\OS_lite\bin\Debug\OS_lite.exe.config
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 2\OS_lite\bin\Debug\OS_lite.exe
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 2\OS_lite\bin\Debug\OS_lite.pdb
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 2\OS_lite\bin\Debug\OS_lite.xml
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 2\OS_lite\obj\Debug\OS_lite.vbproj.AssemblyReference.cache
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 2\OS_lite\obj\Debug\OS_lite.Form1.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 2\OS_lite\obj\Debug\OS_lite.Form10.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 2\OS_lite\obj\Debug\OS_lite.Form11.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 2\OS_lite\obj\Debug\OS_lite.Form12.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 2\OS_lite\obj\Debug\OS_lite.Form2.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 2\OS_lite\obj\Debug\OS_lite.Form3.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 2\OS_lite\obj\Debug\OS_lite.Form4.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 2\OS_lite\obj\Debug\OS_lite.Form5.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 2\OS_lite\obj\Debug\OS_lite.Form6.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 2\OS_lite\obj\Debug\OS_lite.Form7.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 2\OS_lite\obj\Debug\OS_lite.Form8.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 2\OS_lite\obj\Debug\OS_lite.Form9.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 2\OS_lite\obj\Debug\OS_lite.Resources.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 2\OS_lite\obj\Debug\OS_lite.vbproj.GenerateResource.cache
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 2\OS_lite\obj\Debug\OS_lite.vbproj.CoreCompileInputs.cache
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 2\OS_lite\obj\Debug\OS_lite.exe
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 2\OS_lite\obj\Debug\OS_lite.xml
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 2\OS_lite\obj\Debug\OS_lite.pdb
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\bin\Debug\OS_lite.exe.config
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\bin\Debug\OS_lite.exe
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\bin\Debug\OS_lite.pdb
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\bin\Debug\OS_lite.xml
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.vbproj.AssemblyReference.cache
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form1.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form10.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form11.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form12.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form2.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form3.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form4.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form5.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form6.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form7.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form8.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form9.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Resources.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.vbproj.GenerateResource.cache
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.vbproj.CoreCompileInputs.cache
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.exe
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.xml
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.pdb
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form13.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form14.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form15.resources
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\bin\Debug\Interop.SHDocVw.dll
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\bin\Debug\AxInterop.SHDocVw.dll
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\Interop.SHDocVw.dll
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\AxInterop.SHDocVw.dll
+D:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.vbproj.ResolveComReference.cache
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\bin\Debug\OS_lite.exe.config
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\bin\Debug\OS_lite.exe
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\bin\Debug\OS_lite.pdb
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\bin\Debug\OS_lite.xml
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\bin\Debug\Interop.SHDocVw.dll
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\bin\Debug\AxInterop.SHDocVw.dll
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.vbproj.AssemblyReference.cache
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\Interop.SHDocVw.dll
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\AxInterop.SHDocVw.dll
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.vbproj.ResolveComReference.cache
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form1.resources
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form10.resources
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form11.resources
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form12.resources
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form13.resources
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form14.resources
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form15.resources
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form2.resources
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form3.resources
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form4.resources
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form5.resources
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form6.resources
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form7.resources
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form8.resources
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Form9.resources
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.Resources.resources
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.vbproj.GenerateResource.cache
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.vbproj.CoreCompileInputs.cache
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.exe
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.xml
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\Door OS\OS_lite 3\OS_lite\obj\Debug\OS_lite.pdb

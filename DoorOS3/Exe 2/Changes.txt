@@ -1,0 +1,11 @@
+1. Notepad bug fixed
+2. One installation for ever
+3. Calender compatible with 1080p resolution
+
+For Registrator:
+	Run as adiministrator!!
+	When you create a key follow future steps:
+	1. In HKEY_CLASSES_ROOT\door\shell\open\command\(Default) value any apostrophe replace with quotation mark.
+	2. By default Door OS 3 is located in C:\Users and name is DoorOS3.exe - you can change name and location of file, but these changes must be type into registry changeing name and location. Extension '.exe' is must be in path.
+	3. When you open Google Chrome or Microsoft Edge type door:/// and Door OS 3 will be open.
+	4. If you have any problem contact ringwormGO on van.gutan2@gmail.com for registry problem.
